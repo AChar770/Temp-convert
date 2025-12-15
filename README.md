@@ -4,7 +4,12 @@ Let's build an interactive web application to help users convert a temperature i
 
 ## Instructions
 
-1. Create and connect an `index.js` file to `index.html`.
+1. Create and connect an `index.js` file to `index.html`. CHECK!
+
+
+
+
+
 2. Write a function named `convertToCelsius` which takes a temperature in Fahrenheit and returns the equivalent temperature in Celsius.
 3. Write a function named `describeTemperature` which takes a temperature in Fahrenheit and returns a description according to this table:
 
